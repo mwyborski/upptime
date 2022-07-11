@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.emwesoft.com",
     "slug": "emwesoft",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "87.78%",
+    "uptimeDay": "32.69%",
+    "uptimeWeek": "87.78%",
+    "uptimeMonth": "87.78%",
+    "uptimeYear": "87.78%",
     "time": 495,
-    "timeDay": 528,
+    "timeDay": 0,
     "timeWeek": 495,
     "timeMonth": 495,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2022-07-10": 0
+      "2022-07-11": 35,
+      "2022-07-10": 934
     }
   }
 ]
